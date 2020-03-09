@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "title": "Tyy Blog",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "@vuepress/plugin-medium-zoom": "1.2.0",
+    "@vuepress/plugin-pwa": "^1.2.0",
+    "vuepress": "^1.2.0",
+    "vuepress-theme-reco": "^1.2.0-alpha.8"
+  }
+}
