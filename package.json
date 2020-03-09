@@ -5,7 +5,8 @@
   "description": "",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "@vuepress/plugin-google-analytics": "^1.2.0",
